@@ -1,2 +1,2 @@
 # hello-world
-learning Github
+Github learning in progress...
